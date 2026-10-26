@@ -1,5 +1,5 @@
 # Olá, me chamo Pedro Henrique
-🎓 3º Período Engenharia de Software - ULBRA <br>
+🎓 4º Período Engenharia de Software - ULBRA <br>
 📍 Palmas, Tocantins - Brasil <br>
 
 ---
